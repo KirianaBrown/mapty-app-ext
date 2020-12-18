@@ -1,2 +1,5 @@
-# mapty-app-ext
-Mapty App - track your workouts (course extension)
+# Mapty App - Track your Workouts (Extension)
+Mapty App allows you to record and mark your workouts.  
+
+
+
