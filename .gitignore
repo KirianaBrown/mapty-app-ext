@@ -1,0 +1,8 @@
+# OS X Files
+.DS_Store
+Thumbs.db
+# NODE
+.node_modules
+node_modules
+*/node_modules
+/node_modules/*
